@@ -163,7 +163,7 @@ p {
 #showcase {
   float: center;
   width: 100%;
-  background: url("map4.jpg") no-repeat center center/cover;
+  background: url("map7.png") no-repeat center center/cover;
   background-size: cover;
   height: 40em;
   object-fit: fill;
@@ -172,7 +172,7 @@ p {
 #showcase .showcase-content {
   color: #fff;
   text-align: center;
-  padding-top: 170px;
+  padding-top: 17px;
 }
 
 #showcase .showcase-content h1 {
