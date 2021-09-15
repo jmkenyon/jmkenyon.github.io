@@ -891,7 +891,7 @@ a:hover:after {
     
     @media screen and (min-width: 791px) and (max-width: 1000px) {
       #l_photo {
-        width: 30%;
+        width: 35%;
         height: auto;
         display: block;
         margin: 35px auto 10px auto;
@@ -899,7 +899,7 @@ a:hover:after {
     }
     @media screen and (max-width: 790px) {
       #l_photo {
-        width: 35%;
+        width: 40%;
         height: auto;
         display: block;
         margin: 35px auto 10px auto;
@@ -908,7 +908,7 @@ a:hover:after {
     
     @media screen and (max-width: 550px) {
       #l_photo {
-        width: 50%;
+        width: 55%;
         height: auto;
         display: block;
         margin: 35px auto 10px auto;
